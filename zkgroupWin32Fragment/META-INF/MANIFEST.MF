@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ZkgroupWin32Fragment
+Bundle-SymbolicName: zkgroupWin32Fragment
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: org.signal.zkgroup-java;bundle-version="0.7.3"
+Automatic-Module-Name: zkgroupWin32Fragment
+Bundle-NativeCode: native/zkgroup.dll; osname=win32; processor=x86_64
+Bundle-RequiredExecutionEnvironment: JavaSE-16
