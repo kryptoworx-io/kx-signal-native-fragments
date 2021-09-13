@@ -1,8 +1,8 @@
-### Integration notes
+# Integration notes
 
 These projects provide native libraries which are loaded at runtime from the libsignalClient and zkgroup libraries. 
 
-## Instructions for Windows
+### Instructions for Windows
 
 These projects provide native libraries (dlls) for Windows via Eclipse plugin fragments. 
 
