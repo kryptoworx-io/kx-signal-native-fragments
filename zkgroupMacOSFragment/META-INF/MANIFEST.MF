@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ZkgroupMacOSFragment
+Bundle-SymbolicName: zkgroupMacOSFragment
+Bundle-Version: 1.0.0
+Bundle-Vendor: kryptoworx
+Fragment-Host: org.signal.zkgroup-java;bundle-version="0.7.3"
+Automatic-Module-Name: zkgroupMacOSFragment
+Bundle-NativeCode: native/libzkgroup.dylib; osname=MacOS; processor=x86_64
+Bundle-RequiredExecutionEnvironment: JavaSE-16
